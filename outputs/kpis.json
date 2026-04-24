@@ -1,0 +1,13 @@
+{
+  "best_rmspe_model": "NaiveBaseline",
+  "best_rmspe_value": 0.21976737177833586,
+  "best_mae_model": "XGBoost",
+  "best_mae_value": 1071.498779296875,
+  "top_5_xgb_features": [
+    "Promo",
+    "Promo2SinceYear",
+    "CompetitionOpenSinceYear",
+    "CompetitionDistance",
+    "Assortment"
+  ]
+}
